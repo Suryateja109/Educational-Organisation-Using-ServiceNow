@@ -7,7 +7,7 @@ Team Size:5
 
 Team Leader:Chedurthipati Surya Teja
 
-Team Members:Chelluboyina Ganga Bhavani Chodipalli Manohar
+Team Members:Chelluboyina Ganga Bhavani 
              Chodipalli Manohar
              Ginjala Simhadri
              Vadapalli Veera Venkata Satyanarayana
