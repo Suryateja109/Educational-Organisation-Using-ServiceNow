@@ -1,9 +1,7 @@
 Here you will find the pdf files about the Requirement Analysis consists of
 
-1.Customer Journey Map
+1.Solution Requirement
 
-2.Solution Requirement
+2.Data Flow Diagram
 
-3.Data Flow Diagram
-
-4.Technology Stack
+3.Technology Stack
