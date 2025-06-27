@@ -8,9 +8,9 @@ Team Size:5
 Team Leader: 1.Chedurthipati Surya Teja
 
 Team Members: 2.Chelluboyina Ganga Bhavani,  
-                 3.Chodipalli Manohar,  
-                 4.Ginjala Simhadri,  
-                 5.Vadapalli Veera Venkata Satyanarayana
+                   3.Chodipalli Manohar,  
+                   4.Ginjala Simhadri,  
+                   5.Vadapalli Veera Venkata Satyanarayana
 
 ServiceNow Instance:https://dev337531.service-now.com/now/nav/ui/classic/params/target/ui_page.do%3Fsys_id%3D4a733dfa830622102e10b0d6feaad31f
 
